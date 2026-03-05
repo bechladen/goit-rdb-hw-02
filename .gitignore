@@ -32,4 +32,4 @@ node_modules/
 
 # MySQL Workbench temp/backup
 *.mwb.bak
-*.bak
+*.bak.DS_Store
